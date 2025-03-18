@@ -1,0 +1,58 @@
+#h1{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    background-color: yellowgreen;
+}
+
+.p{
+    display: inline-flex;
+    color: black;
+    font-style: italic;
+}
+
+.p1{
+    display: inline-flex;
+    color: black;
+    font-style: italic;
+}
+#num{
+    color: darkblue;
+    font-weight: 200;
+}
+.sk{
+ background-color:bisque;
+ color: red;
+}
+#t{
+    color: rebeccapurple;
+    background-color: cadetblue;
+}
+#s{
+    color: brown;
+    background-color: aqua;
+}
+.soft{
+    background-color: chartreuse;
+    color: black;
+}
+
+.pro{
+    background-color:azure;
+    color: deeppink;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+.H{
+    background-color: aquamarine;
+    color: crimson;
+}
+
+.clg{
+    background-color: darkgoldenrod;
+    color: blue;
+}
+.sum{
+    background-color: antiquewhite;
+    color: darkorchid;
+}
